@@ -1,4 +1,4 @@
-## Team Profile Generator
+## Note Taker
 
    ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/luuluu75/note-taker?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/luuluu75/note-taker?style=flat&logo=appveyor)
    
