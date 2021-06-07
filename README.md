@@ -34,3 +34,4 @@
    ## Project Links
 
    * Github Repository - https://github.com/luuluu75/note-taker.git
+   * Deployed applicaiton - https://tranquil-dawn-24219.herokuapp.com/
