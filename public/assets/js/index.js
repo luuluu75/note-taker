@@ -12,7 +12,7 @@ if (window.location.pathname === '/notes') {
   noteList = document.querySelectorAll('.list-container .list-group');
 }
 
-// Show an element 
+// Show an element
 const show = (elem) => {
   elem.style.display = 'inline';
 };
@@ -59,6 +59,8 @@ const renderActiveNote = () => {
     noteTitle.value = activeNote.title;
     noteText.value = activeNote.text;
   } else {
+    noteTitle.removeAttribute('readonly', false);
+    noteText.removeAttribute('readonly', false);
     noteTitle.value = '';
     noteText.value = '';
   }
